@@ -43,3 +43,26 @@
   width: 90px;
 }
 
+
+@keyframes col1 {
+  from {font-size: 16px;}
+  to {font-size: 48px;}
+}
+
+#colName1 {
+  animation-name: col1;
+  animation-duration: 1s;
+  font-size: 48px;
+}
+
+#colName2 {
+  animation-name: col1;
+  animation-duration: 1s;
+  font-size: 48px;
+}
+
+#colName3 {
+  animation-name: col1;
+  animation-duration: 1s;
+  font-size: 48px;
+}
