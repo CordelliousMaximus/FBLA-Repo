@@ -35,10 +35,6 @@
 }
 
 
-html { 
-    background: url(assets\logo.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+html {
+    background-color: #453B3B;     
+}
