@@ -35,6 +35,10 @@
   border-radius: 4px;
 }
 
+
+body {
+    background-color: #453B3B;     
+}
 html {
   background-color: #453b3b;
 }
