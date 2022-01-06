@@ -35,14 +35,6 @@
   border-radius: 4px;
 }
 
-
-body {
-    background-color: #453B3B;     
-}
-html {
-  background-color: #453b3b;
-}
-
 .navbar-brand {
   font-size: large !important;
 }
@@ -50,3 +42,4 @@ html {
 #spaceholder {
   width: 90px;
 }
+
