@@ -66,3 +66,12 @@
   animation-duration: 1s;
   font-size: 48px;
 }
+
+#previewPictures {
+  border-radius: 10%;
+  box-shadow: white 3px;
+}
+
+h1 {
+  font-family: 'Bebas Neue', cursive;
+}
